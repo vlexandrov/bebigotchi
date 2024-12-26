@@ -27,3 +27,7 @@ img {
     height: auto;
     border-radius: 10px;
 }
+
+ul {
+    text-align: left;
+}
