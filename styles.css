@@ -1,0 +1,29 @@
+/* Basic styling for the webpage */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    margin: 20px auto;
+    padding: 10px;
+    width: 80%;
+    max-width: 1000px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
